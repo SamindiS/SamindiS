@@ -8,9 +8,9 @@
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-- 🔭 I’m currently working on **Real-Estate Project**
+- 🔭 I’m currently working on **Laravel POS Management System**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **MERN Stack,React**
 
