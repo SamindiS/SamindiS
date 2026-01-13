@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Samindi Sankalpani</h1>
-<h3 align="center">A passionate frontend developer, fullstack developer from Sri Lanka </h3>
+<h3 align="center">A passionate frontend developer, fullstack developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SamindiS&label=Profile%20views&color=0e75b6&style=flat" alt="samindis" /> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🔭 I’m currently working on **[Autism_Screening_Tool_25-26J-273](https://github.com/SamindiS/Autism_Screening_Tool_25-26J-273)** — Final year research project: Autism screening tool for children aged 2-6
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 Ask me about **MERN Stack, React, Flutter**
+- 🔭 I’m currently working on **Laravel POS Management System**
+- 🌱 I’m currently learning **Laravel**
+- 💬 Ask me about **MERN Stack,React**
 - 📫 How to reach me **samindisankalpani@gmail.com**
  <p align="center">
   <img height="150" width="130" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
@@ -14,7 +14,7 @@
 </p>
 #
 <div align="center" >
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/SamindiS/SamindiS/.github/workflows/snake.yml)
+!https://github.com/SamindiS/SamindiS/blob/main/.github/workflows/snake.yml
 <br/>
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamindiS&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=SamindiS&show_icons=true&theme=tokyonight)
@@ -34,7 +34,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/samindi-sankalpani-070a90270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samindi sankalpani" height="40" width="50" /></a>
-<a href="[https://fb.com/samindi sankalpani](https://www.facebook.com/share/17HNkPfAQx/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samindi sankalpani" height="40" width="50" /></a>
-  <a href="[https://instagram.com/samindi sankalpani](https://www.instagram.com/samindi_sankalpani?igsh=ajQzNHNocWtrODVi)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samindi sankalpani" height="40" width="50" /></a>
-<a href="mailto:samindisankalpani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="samindisankalpani@gmail.com" height="40" width="50" /></a>
+<a href="https://fb.com/samindi sankalpani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samindi sankalpani" height="40" width="50" /></a>
+  <a href="https://instagram.com/samindi sankalpani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samindi sankalpani" height="40" width="50" /></a>
+<a href="/samindisankalpani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="samindisankalpani@gmail.com" height="40" width="50" /></a>
 </p>
+-----------------------------------------
+ 
+this is my github profile, but it didnt fetch my origunal details, my github link is https://github.com/SamindiS
