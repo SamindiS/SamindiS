@@ -7,11 +7,13 @@
 - 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **MERN Stack,React**
 - 📫 How to reach me **samindisankalpani@gmail.com**
- <p align="center">
-  <img height="150" width="130" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" width="350"src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="130" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-</p>
+ <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamindiS/SamindiS/main/output/github-contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamindiS/SamindiS/main/output/github-contribution-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SamindiS/SamindiS/main/output/github-contribution-snake.svg" width="80%" />
+  </picture>
+</div>
 #
 <div align="center" >
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
