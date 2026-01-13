@@ -1,0 +1,17 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SamindiS
+          outputs: |
+            dist/github-contribution-snake.svg?palette=github-dark
+            dist/github-contribution-snake-dark.svg?palette=github-dark
