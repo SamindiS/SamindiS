@@ -1,34 +1,36 @@
 name: Generate Contribution Snake
 
 on:
-  # Run daily at midnight UTC (you can change the schedule if you want)
   schedule:
-    - cron: "0 0 * * *"
-  # Allow manual trigger from GitHub Actions tab
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Daily at midnight UTC
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
+      # 1. Checkout your repo
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      # Generate the snake animations
-      - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Automatically uses your username (SamindiS)
+          token: ${{ secrets.GITHUB_TOKEN }}  # Ensures write permission
+
+      # 2. Generate snake SVGs
+      - name: Generate GitHub Contribution Snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # = SamindiS
           outputs: |
             output/github-contribution-snake.svg
             output/github-contribution-snake-dark.svg?palette=github-dark
 
-      # Push the generated files to the output branch
-      - name: Push snake SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
+      # 3. Commit and push the generated files back to main
+      - name: Push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add output/*.svg
+          git commit -m "chore: update contribution snake [skip ci]" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
