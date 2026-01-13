@@ -16,8 +16,8 @@
 <div align="center" >
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
 <br/>
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamindiS&show_icons=true&theme=radical)
-![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=SamindiS&show_icons=true&theme=tokyonight)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantGoel001&show_icons=true&theme=radical)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=JayantGoel001&show_icons=true&theme=tokyonight)
 </br>
 </p>
 <h3 align="center">Languages and Tools:</h3>
