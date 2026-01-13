@@ -3,8 +3,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SamindiS&label=Profile%20views&color=0e75b6&style=flat" alt="samindis" /> </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🔭 I’m currently working on **[Autism_Screening_Tool_25-26J-273](https://github.com/SamindiS/Autism_Screening_Tool_25-26J-273)** — Final year research project: Autism screening tool for children aged 2-6
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **Laravel POS Management System**
+- 🌱 I’m currently learning **Laravel**
 - 💬 Ask me about **MERN Stack,React**
 - 📫 How to reach me **samindisankalpani@gmail.com**
  <p align="center">
@@ -38,3 +38,6 @@
   <a href="https://instagram.com/samindi sankalpani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samindi sankalpani" height="40" width="50" /></a>
 <a href="/samindisankalpani@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="samindisankalpani@gmail.com" height="40" width="50" /></a>
 </p>
+-----------------------------------------
+ 
+this is my github profile, but it didnt fetch my origunal details, my github link is https://github.com/SamindiS
